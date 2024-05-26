@@ -1,4 +1,6 @@
-# requirements
+# Requirements
+
+The below is required to get this project running properly..
 
 - Apollo Server
 - GraphQL
@@ -11,16 +13,16 @@ $  npm install apollo-server graphql json-server node-fetch python
 $  npm install sucrase nodemon -D
 ```
 
-## start servers
+## Start Servers
 
-- Used to start the Apollo Server and the JSON Server
+Used to start the Apollo Server and the JSON Server
 
 ```shell
 $  npm run dev
 $  npm run server
 ```
 
-## plugins/extensions
+## Plugins/Extensions
 
 - OMThemes
 - ESLint & Prettier
